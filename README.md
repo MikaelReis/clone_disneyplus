@@ -22,19 +22,6 @@ Projeto desenvolvido como desafio prático para recriar a interface da plataform
 - ✅ Animações simples com CSS  
 - ✅ Estrutura otimizada com Gulp
 
-## 📂 Estrutura do Projeto
-
-clone_disneyplus/
-├── dist/ # Versão final após build
-├── src/ # Arquivos fonte (SCSS, JS, HTML)
-│ ├── scss/
-│ ├── js/
-│ └── index.html
-├── gulpfile.js # Configuração do Gulp
-├── package.json
-└── README.md
-
-
 ## ⚙️ Como Executar Localmente
 
 1. Clone o repositório:
